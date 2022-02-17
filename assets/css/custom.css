@@ -1,0 +1,256 @@
+.medaux-full-logo{
+	margin-left: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+header.main-header{
+	height: 75px;
+	box-shadow: none;
+}
+header nav:not(.mdx-app-nav) a{
+	text-transform: none;
+}
+header nav:not(.mdx-app-nav) a:hover{
+	cursor: pointer;
+}
+.btn-signup{
+	border:0.5px solid #127ec2;
+	background: none;
+	height: 35px;
+	border-radius: 5px;
+
+
+}
+
+a:link:hover, a:visited:hover{
+	color: #10B8EC;
+}
+.btn-signup:hover{
+	background-color: #10B8EC;
+	border-color:#10B8EC;
+}
+.btn-signup a:hover{
+	color: #fff;
+}
+.btn-signup-1 {
+	margin-left: -10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #10B8EC;
+	border-radius: 5px;
+
+}
+a:link, a:visited{
+	color: #127ec2;
+}
+.btn-signup-1:hover{
+	background-color: #127ec2;
+}
+.btn-signup-1 a{
+	color: #fff;
+}
+.btn-signup-1 a:hover{
+	color: #fff;
+}
+
+button{
+	background: none;
+	border:none;
+}
+.landing-login{
+	margin-left: 20px;
+}
+.btn-signup a{
+	margin-top: -15px;
+}
+.hero-cta-copy-heading{
+	color: #127ec2;
+
+}
+.hero-cta-copy{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20px;
+}
+
+.feature{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.feature-img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 130px;
+
+}
+#empower-icon{
+	height: 100px;
+}
+#timer-icon{
+	height: 100px;
+}
+#never-icon{
+	height: 100px;
+}
+.feature-row{
+	margin-top: 50px;
+}
+.doc-chat-img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 180px;
+	padding-top: 40px;
+}
+.why-row, .how-row{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.why-row-text, .how-row-text{
+	padding-right: 8%;
+	padding-left: 20px;
+
+}
+
+.align-center{
+	margin-left: auto;
+	margin-right: auto;
+}
+.how-row{
+	background-color: #ecf6fb;
+
+}
+.social img{
+	width: 30px;
+}
+.social{
+	margin-left: auto;
+	margin-right: auto;
+	width: 150px;
+}
+#email-icon{
+	width: 20px;
+	margin-top: 3px;
+}
+#location-icon{
+	width: 15px;
+	margin-top: 3px;
+}
+#email-t{
+	margin-top: 2px;
+	margin-left: 5px;
+	color: black;
+}
+#location-t{
+	margin-top: 2px;
+	margin-left: 5px;
+}
+.email-content {
+	width: 190px;
+}
+.social-content{
+	width: 170px;
+}
+.location-content{
+	width: 100px;
+}
+#contact{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.btn-pill{
+	background: #fff;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding: 5px;
+}
+#email-t:hover{
+	color: #10B8EC;
+}
+.download-info{
+	float: right;
+}
+.web-app, .download{
+	text-align: center;
+}
+.web-app img{
+	height: 60px;
+}
+.btn-applestore{
+	border: 0.5px solid #127ec2;
+	padding-left: 5px;
+	padding-right:5px;
+	border-radius: 5px;
+	margin-right: 5px;
+	height: 40px;
+
+}
+.btn-applestore img{
+	width: 25px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.download-t{
+	margin-top: 8px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+.btn-googlestore{
+	border: 0.5px solid #127ec2;
+	padding-left: 5px;
+	padding-right:5px;
+	border-radius: 5px;
+	margin-right: 5px;
+	height: 40px;
+}
+.btn-googlestore img{
+	width: 25px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+.download{
+	margin-left: 30px;
+}
+.feature-t{
+	margin-top: 30px;
+	line-height: 160%;
+}
+footer{
+	background: #127ec2;
+	color: #fff;
+	text-align: center;
+	height: 30px;
+}
+footer p{
+	margin-top: -10px;
+}
+
+/*type*/
+.bold-text{
+	font-size: 500;
+}
+.light-text{
+	font-size: 300;
+}
+.blue-t{
+	color: #127ec2;
+}
+.orange-t{
+	color: #F47823;
+}
+p{
+	line-height: 160%;
+}
+.how-h3{
+	margin-top: 12px;
+}
+.pill-t{
+	padding-left: 20px;
+}
+
+
